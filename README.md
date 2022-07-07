@@ -1,5 +1,4 @@
-# UniTN - DeepL project course 
-# Unsupervised Domain Adaptation
+# UniTN - DeepL project course  <br/> Unsupervised Domain Adaptation
 in the UDA setup we have labelled data source but we are not interested in the performance in the source domain but only in the performance of the model in a different target domain where instead the data are not annotated.
 
 $$D_{S} = \{(x_{i}^{S}, y_{i}^{S})\}_{i=1}^{N}$$ 
